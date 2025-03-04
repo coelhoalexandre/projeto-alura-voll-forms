@@ -1,0 +1,16 @@
+export { default as Button } from './Button';
+export { default as ButtonContainer } from './ButtonContainer';
+export { default as Divisor } from './Divisor';
+export { default as Label } from './Label';
+export { default as Fieldset } from './Fieldset';
+export { default as Input } from './Input';
+export { default as Form } from './Form';
+export { default as ErrorMessage } from './ErrorMessage';
+export { default as FormContainer } from './FormContainer';
+export { default as Titulo } from './Titulo';
+export { default as Logotipo } from './Logotipo';
+export { default as UploadDescription } from './UploadDescription';
+export { default as UploadIcon } from './UploadIcon';
+export { default as UploadInput } from './UploadInput';
+export { default as UploadLabel } from './UploadLabel';
+export { default as UploadTitulo } from './UploadTitulo';
