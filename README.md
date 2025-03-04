@@ -1,64 +1,47 @@
-![Voll](thumb.png)
+<h1 align="center"> Projeto Voll Forms </h1>
 
-# Voll
+<div align="center">
 
-A Voll med é um clínica especializada em conectar os profissionais certos aos clientes. Atualmente está na fase de desenvolvimento de seu site e app, que conta com uma grande quantidade de funcionalidades. Uma dessas funcionalidades são os seus formulários, que precisam possuir algum tipo de validação dos dados de seus clientes.
+<a href="https://github.com/coelhoalexandre/projeto-alura-voll-forms/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Completo-lightgreen.svg" alt="Completo">
 
-![Imagem da aplicação da Voll](voll.png)
+</div>
 
-## 🔨 Funcionalidades do projeto
+## Sumário
 
-Neste estágio de desenvolvimento, a Voll possui as seguintes funcionalidades:
+- [Cursos e Instrutores](#cursos-e-instrutores)
+- [Objetivos do Projeto](#objetivos-do-projeto)
+- [Tecnologias Utilizadas](#tecnolgias-utilizadas)
 
-- Formulário de cadastro de Paciente
-- Formulário de cadastro de médicos especialistas
+## Cursos e Instrutores
 
-O [Figma dessa aplicação você encontra aqui](https://www.figma.com/file/hsW25fAq36IDzzIxBtpgCd/Voll.med-%7C-React-Hook-Forms?type=design&node-id=57-1388&mode=design).
+|Curso|Instrutores|
+|---|---|
+|[React: gerencie e valide formulários com o React Hook Form](https://cursos.alura.com.br/course/react-gerencie-valide-formularios-react-hook-form)|[**Neilton Seguins**](https://github.com/NeiltonSeguins)|
+|[React: eleve o nível de seus formulários com Zod e o React Hook Form](https://cursos.alura.com.br/course/react-eleve-nivel-formularios-zod-react-hook-form)|[**Neilton Seguins**](https://github.com/NeiltonSeguins)|
 
-## ✔️ Técnicas e tecnologias utilizadas
+## Objetivos do Projeto
+- Instalar e utilizar a biblioteca React Hook Form para gerenciar formulários de maneira eficiente;
+- Dominar o uso de métodos essenciais como useForm, register e handleSubmit para controlar o comportamento dos formulários;
+- Aplicar validações customizadas para garantir a integridade dos dados submetidos;
+- Manipular mensagens de erro de forma eficaz para fornecer feedback ao usuário;
+- Validar dados provenientes de APIs externas e habilite preenchimento automático;
+- Integrar componentes de bibliotecas de terceiros para otimizar a experiência de desenvolvimento;
+- Instalar e utilize a biblioteca zod para criar esquemas de validação para seus formulários;
+- Dominar o uso de métodos essenciais transform, refine, instanceof, entre outros para garantir a consistência de seus dados;
+- Explorar os principais recursos de tipagem estática do zod;
+- Criar e gerenciar formulários dinâmicos por meio do hook useFieldArray do React hook form;
+- Aplicar boas práticas de código separando responsabilidades, tipos e esquemas de validação;
+- Implementar validações para campos de entrada de upload e salve arquivos em um banco de dados as a servive, o supabase;
 
-O projeto utiliza as seguintes tecnologias e bibliotecas:
+## Tecnolgias Utilizadas
+1. HTML
+2. CSS
+3. JS
+4. TS
+5. React
+6. Vite
+7. Zod
+8. Supabase
 
-- `React` - Framework JavaScript
-- `Vite` - Build tool para desenvolvimento rápido
-- `TypeScript` - Linguagem de programação principal
-- `Styled Components` - Ferramenta de estilização do nosso projeto
-- `Figma` - Para prototipagem do projeto
+Autor: [Alexandre Coelho](https://github.com/coelhoalexandre)
 
-E muito mais...
-
-## 🛠️ Abrir e rodar o projeto
-
-Para executar o projeto Meteora em seu ambiente local, siga estas etapas:
-
-1. Certifique-se de ter o Node.js instalado em sua máquina. Nós usamos a versão 20.10.0
-
-2. Baixe o repositório do projeto.
-
-3. Extraia os arquivos para uma pasta de sua preferência.
-
-4. Navegue até a pasta em questão via terminal (cmd):
-
-```bash
-cd react-forms
-```
-
-5. Instale as dependências usando o npm:
-
-```bash
-npm install
-```
-
-6. Inicie o projeto localmente:
-
-```bash
-npm run dev
-```
-
-## 📚 Mais informações do curso
-
-Gostou do projeto e quer conhecer mais?
-
-O design e protótipo deste projeto podem ser encontrados [aqui](https://www.figma.com/file/hsW25fAq36IDzzIxBtpgCd/Voll.med-%7C-React-Hook-Forms?type=design&node-id=57-1388&mode=design). Se você quiser desenvolver este projeto completo nas versões web e mobile, recomendo acessar a Formação [Desenvolva aplicações Web e Mobile com React e React Native](https://cursos.alura.com.br/formacao-aplicacoes-web-mobile-react-react-native)
-
-Aproveite o desenvolvimento e aprimoramento da Voll!
